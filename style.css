@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(204, 110, 141);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid {
+    margin: 0 auto;
+    height: 300px;
+    width: 400px;
+    cursor: pointer;
+}
